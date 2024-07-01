@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development using Node.js**
 
-- 💻 I am an AIML Enthusiast **Human Facial Expression Recognition**
+- 💻 I am an AIML Enthusiast. Recently, I made a project: **Human Facial Expression Recognition**
 
 - 📫 How to reach me **arghyabhattacharjee876@gmail.com**
 
