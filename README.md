@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arghyabhattacharjee876@gmail.com"><img src="https://img.shields.io/badge/Email-arghyabhattacharjee876%40gmail.com-3532c9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-3532c9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Arghya876/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Arghya876-3532c9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:arghyabhattacharjee876@gmail.com"><img src="https://img.shields.io/badge/Email-arghyabhattacharjee876%40gmail.com-00a8ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arghya-bhattacharjee876/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00a8ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://arghyaportfolio876.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Arghya876-00a8ff?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Arghya876?label=Followers&style=flat-square&color=3532c9" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Arghya876?style=flat-square&color=3532c9" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Arghya876?label=Followers&style=flat-square&color=00a8ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Arghya876?style=flat-square&color=00a8ff" alt="Stars" />
 </p>
 
 <p align="center">
