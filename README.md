@@ -3,36 +3,38 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=3532c9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi,+I'm+Arghya+Bhattacharjee+👋;Java+and+Python+Programmer;Full-Stack+MERN+Developer;AI+and+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=3532c9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arghya+Bhattacharjee+👋;Java+and+Python+Programmer;MERN+Stack+Developer;AIML+Enthusiast+%26+Patent+Holder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>Software Developer building across the stack — web, data, and intelligent systems</strong>
+  <strong>Java & Python Programmer || MERN Stack Developer || MongoDB Database || AIML Enthusiast || Patent Holder: "AI-based LPG Gas Leakage Detection & Fire Alert System"</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:arghyabhattacharjee876@gmail.com"><img src="https://img.shields.io/badge/Email-arghyabhattacharjee876%40gmail.com-3532c9?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-3532c9?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Arghya876/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Arghya876-3532c9?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:arghyabhattacharjee876@gmail.com"><img src="https://img.shields.io/badge/Email-arghyabhattacharjee876%40gmail.com-3532c9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-3532c9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Arghya876/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-Arghya876-3532c9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Arghya876?label=Followers&amp;style=flat-square&amp;color=3532c9" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Arghya876?style=flat-square&amp;color=3532c9" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Arghya876?label=Followers&style=flat-square&color=3532c9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Arghya876?style=flat-square&color=3532c9" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3532c9,100:111145&amp;height=50&amp;section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3532c9,100:111145&height=50&section=footer" width="100%"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate software developer located in **Aranghata, India**. I specialize in building responsive web applications, robust backend services, and exploring the realms of Artificial Intelligence and Computer Vision. I love finding creative solutions to real-world problems and automating tasks using technology.
+I am a passionate software developer specializing in building modern web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js) and designing intelligent systems. I am highly passionate about **Artificial Intelligence & Machine Learning**, constantly exploring deep learning, computer vision, and automated IoT systems.
 
-* 💻 **Core Focus:** Developing premium web apps and training deep learning models.
-* ⚡ **Fun Fact:** I love writing Python scripts using Computer Vision to automate my daily routine!
+* 💻 **Core Focus:** Developing full-stack web applications and training deep learning models.
+* 🛠️ **MERN Stack Expertise:** Building robust servers with Node.js/Express, managing data with MongoDB, and creating dynamic frontends with React.
+* 🧠 **AIML Interest:** Exploring computer vision applications, CNN classification models, and automating routines using Python.
+* ⚡ **Fun Fact:** I love writing Python scripts using Computer Vision to automate my daily tasks!
 
 ---
 
@@ -43,7 +45,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
     <td valign="top" width="50%">
       <h3>💻 Programming & Backend</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=java,py,nodejs,django&amp;theme=dark" alt="Backend Skills" />
+        <img src="https://skillicons.dev/icons?i=java,py,nodejs,django&theme=dark" alt="Backend Skills" />
       </p>
       <ul>
         <li>Core Java & OOP concepts</li>
@@ -56,7 +58,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
     <td valign="top" width="50%">
       <h3>🌐 Frontend & Web Design</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&amp;theme=dark" alt="Frontend Skills" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" alt="Frontend Skills" />
       </p>
       <ul>
         <li>React.js & Next.js SPAs</li>
@@ -70,7 +72,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
     <td valign="top" width="50%">
       <h3>🤖 AI, Machine Learning & CV</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pandas,numpy&amp;theme=dark" alt="AI/ML Skills" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pandas,numpy&theme=dark" alt="AI/ML Skills" />
       </p>
       <ul>
         <li>Computer Vision with OpenCV & PIL</li>
@@ -82,7 +84,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
     <td valign="top" width="50%">
       <h3>🔧 Developer Tools & OS</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=git,docker,linux,windows,vscode&amp;theme=dark" alt="Developer Tools" />
+        <img src="https://skillicons.dev/icons?i=git,docker,linux,windows,vscode&theme=dark" alt="Developer Tools" />
       </p>
       <ul>
         <li>Git version control & GitHub workflows</li>
@@ -104,7 +106,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
       <div align="center">
         <h3>🛒 <a href="https://github.com/Arghya876/Novacart">NovaCart</a></h3>
         <p><em>Premium Full-Stack E-Commerce Platform</em></p>
-        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&amp;theme=dark" alt="NovaCart Tech" height="28" />
+        <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="NovaCart Tech" height="28" />
       </div>
       <ul>
         <li>Secure authentication & Admin dashboard</li>
@@ -116,7 +118,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
       <div align="center">
         <h3>🔥 <a href="https://github.com/Arghya876/AI-based-LPG-Gas-Leakage-Detection-Fire-Alert-System">LPG Leakage Alert System</a></h3>
         <p><em>AI/IoT Home Safety System</em></p>
-        <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow&amp;theme=dark" alt="LPG Safety Tech" height="28" />
+        <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow&theme=dark" alt="LPG Safety Tech" height="28" />
       </div>
       <ul>
         <li>Real-time gas leak & fire detection</li>
@@ -130,7 +132,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
       <div align="center">
         <h3>😊 <a href="https://github.com/Arghya876/Face-Emotion-Recognition">Face Emotion Recognition</a></h3>
         <p><em>Deep Learning CNN Classifier</em></p>
-        <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&amp;theme=dark" alt="Emotion Recognition Tech" height="28" />
+        <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&theme=dark" alt="Emotion Recognition Tech" height="28" />
       </div>
       <ul>
         <li>Live video emotion classification</li>
@@ -142,7 +144,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
       <div align="center">
         <h3>🚨 <a href="https://github.com/Arghya876/Face-Obstruction-Detection-with-WhatsApp-Alert">Face Obstruction Detector</a></h3>
         <p><em>Computer Vision Security Monitor</em></p>
-        <img src="https://skillicons.dev/icons?i=py,opencv&amp;theme=dark" alt="Face Obstruction Tech" height="28" />
+        <img src="https://skillicons.dev/icons?i=py,opencv&theme=dark" alt="Face Obstruction Tech" height="28" />
       </div>
       <ul>
         <li>Monitors video feed for face coverings</li>
@@ -168,12 +170,12 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghya876&amp;show_icons=true&amp;hide_border=false&amp;count_private=true&amp;bg_color=090816&amp;title_color=5350f6&amp;text_color=c9d1d9&amp;icon_color=3532c9&amp;border_color=3532c9" alt="Arghya's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya876&amp;layout=compact&amp;hide_border=false&amp;bg_color=090816&amp;title_color=5350f6&amp;text_color=c9d1d9&amp;icon_color=3532c9&amp;border_color=3532c9" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arghya876&show_icons=true&hide_border=false&count_private=true&bg_color=090816&title_color=5350f6&text_color=c9d1d9&icon_color=3532c9&border_color=3532c9" alt="Arghya's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya876&layout=compact&hide_border=false&bg_color=090816&title_color=5350f6&text_color=c9d1d9&icon_color=3532c9&border_color=3532c9" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arghya876&amp;background=090816&amp;border=3532c9&amp;stroke=3532c9&amp;ring=5350f6&amp;fire=3532c9&amp;currStreakNum=5350f6&amp;sideNums=c9d1d9&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9&amp;hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Arghya876&background=090816&border=3532c9&stroke=3532c9&ring=5350f6&fire=3532c9&currStreakNum=5350f6&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -191,7 +193,7 @@ I am a passionate software developer located in **Aranghata, India**. I speciali
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arghya876&amp;color=3532c9&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arghya876&color=3532c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
