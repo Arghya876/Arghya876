@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=3532c9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arghya+Bhattacharjee+👋;Java+and+Python+Programmer;MERN+Stack+Developer;AIML+Enthusiast+%26+Patent+Holder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=3532c9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Arghya+Bhattacharjee+👋;Java+and+Python+Programmer;MERN+Stack+Developer;AIML+Enthusiast+and+Patent+Holder&v=1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3532c9,100:111145&height=50&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3532c9,100:111145&height=50&section=footer&v=1" width="100%"/>
 </p>
 
 ---
@@ -170,12 +170,12 @@ I am a passionate software developer specializing in building modern web applica
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghya876&show_icons=true&hide_border=false&count_private=true&bg_color=090816&title_color=5350f6&text_color=c9d1d9&icon_color=3532c9&border_color=3532c9" alt="Arghya's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya876&layout=compact&hide_border=false&bg_color=090816&title_color=5350f6&text_color=c9d1d9&icon_color=3532c9&border_color=3532c9" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arghya876&show_icons=true&hide_border=false&count_private=true&bg_color=090816&title_color=5350f6&text_color=c9d1d9&icon_color=3532c9&border_color=3532c9&v=1" alt="Arghya's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya876&layout=compact&hide_border=false&bg_color=090816&title_color=5350f6&text_color=c9d1d9&icon_color=3532c9&border_color=3532c9&v=1" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arghya876&background=090816&border=3532c9&stroke=3532c9&ring=5350f6&fire=3532c9&currStreakNum=5350f6&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Arghya876&background=090816&border=3532c9&stroke=3532c9&ring=5350f6&fire=3532c9&currStreakNum=5350f6&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false&v=1" alt="GitHub Streak" />
 </p>
 
 ---
@@ -193,7 +193,7 @@ I am a passionate software developer specializing in building modern web applica
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arghya876&color=3532c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Arghya876&color=3532c9&style=flat-square&label=Profile+Views&v=1" alt="Profile Views" />
 </p>
 
 <p align="center">
