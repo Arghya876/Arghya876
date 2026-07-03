@@ -34,7 +34,6 @@ I am a passionate software developer specializing in building modern web applica
 * 💻 **Core Focus:** Developing full-stack web applications and training deep learning models.
 * 🛠️ **MERN Stack Expertise:** Building robust servers with Node.js/Express, managing data with MongoDB, and creating dynamic frontends with React.
 * 🧠 **AIML Interest:** Exploring computer vision applications, CNN classification models, and automating routines using Python.
-* ⚡ **Fun Fact:** I love writing Python scripts using Computer Vision to automate my daily tasks!
 
 ---
 
@@ -49,7 +48,6 @@ I am a passionate software developer specializing in building modern web applica
       </p>
       <ul>
         <li>Core Java & OOP concepts</li>
-        <li>Python automation scripting</li>
         <li>Node.js & Express.js REST APIs</li>
         <li>Django backend security & integration</li>
         <li>SQL (MySQL/PostgreSQL) & NoSQL (MongoDB)</li>
@@ -160,8 +158,8 @@ I am a passionate software developer specializing in building modern web applica
 ## 🏆 Achievements & Highlights
 
 * 🏅 **IoT & Safety Innovation:** Developed an advanced home safety AI system using computer vision & automated alerts.
-* 📜 **Patents:** Co-invented and filed a patent for the **AI-based LPG Gas Leakage Detection & Fire Alert System**.
-* ⚙️ **Full-Stack Architect:** Created a highly robust, fully interactive MERN-stack e-commerce marketplace (**NovaCart**).
+* 📜 **Patents:** Patent for the **AI-based LPG Gas Leakage Detection & Fire Alert System**.
+* ⚙️ **Full-Stack Architect:** Fully interactive MERN-stack e-commerce marketplace (**NovaCart**).
 * 🤖 **Deep Learning:** Implemented computer vision neural networks with real-time video analytics capabilities.
 * 📚 **Continuous Growth:** Successfully completed assignments and challenges in Web Development, Java concepts, and Django security integration.
 
