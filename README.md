@@ -20,34 +20,70 @@
 
 I am a passionate software developer specializing in building modern web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js) and designing intelligent systems. I am highly interested in **Artificial Intelligence & Machine Learning**, focusing on deep learning, computer vision, and automated IoT systems.
 
-- 💡 **Key Highlight:** Co-invented and filed a patent for an **AI-based LPG Gas Leakage Detection & Fire Alert System**.
-- 💻 **Core Focus:** Developing full-stack web applications and training deep learning models.
-- ⚡ **Fun Fact:** I write Python scripts using Computer Vision to automate my daily tasks!
+* 💻 **Core Focus:** Developing full-stack web applications and training deep learning models.
+* 🛠️ **MERN Stack Expertise:** Building robust servers with Node.js/Express, managing data with MongoDB, and creating dynamic frontends with React.
+* 🧠 **AIML Interest:** Exploring computer vision applications, CNN classification models, and automating routines using Python.
+* ⚡ **Fun Fact:** I love writing Python scripts using Computer Vision to automate my daily tasks!
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages & Frameworks**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,nodejs,express,django&theme=dark" alt="Languages & Frameworks" />
-  </a>
-</p>
-
-**AI, Machine Learning & Data Science**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pandas,numpy&theme=dark" alt="AI & ML" />
-  </a>
-</p>
-
-**Databases, DevOps & Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,linux,windows,vscode&theme=dark" alt="Databases & DevOps Tools" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Programming & Backend</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=java,py,nodejs,django&theme=dark" alt="Backend Skills" />
+      </p>
+      <ul>
+        <li>Core Java & OOP concepts</li>
+        <li>Python automation scripting</li>
+        <li>Node.js & Express.js REST APIs</li>
+        <li>Django backend security & integration</li>
+        <li>SQL (MySQL/PostgreSQL) & NoSQL (MongoDB)</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌐 Frontend & Web Design</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" alt="Frontend Skills" />
+      </p>
+      <ul>
+        <li>React.js & Next.js SPAs</li>
+        <li>Modern HTML5 & CSS3 layout design</li>
+        <li>State Management & REST API integrations</li>
+        <li>Responsive Web App Architectures</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🤖 AI, Machine Learning & CV</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pandas,numpy&theme=dark" alt="AI/ML Skills" />
+      </p>
+      <ul>
+        <li>Computer Vision with OpenCV & PIL</li>
+        <li>Facial emotion recognition CNNs</li>
+        <li>Data analytics with NumPy & Pandas</li>
+        <li>Deep Learning models with TensorFlow</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🔧 Developer Tools & OS</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=git,docker,linux,windows,vscode&theme=dark" alt="Developer Tools" />
+      </p>
+      <ul>
+        <li>Git version control & GitHub workflows</li>
+        <li>Containerization & deployments with Docker</li>
+        <li>OS environments: Ubuntu Linux & Windows</li>
+        <li>Modern IDEs: VS Code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,13 +113,28 @@ I am a passionate software developer specializing in building modern web applica
 
 ### 🏆 Achievements & Key Highlights
 
-* 📜 **Patent Filed:** Co-invented and filed patent for **"AI-based LPG Gas Leakage Detection & Fire Alert System"**.
-* ⚙️ **Full-Stack Projects:** Developed **NovaCart**, a complete, production-grade e-commerce application.
-* 🤖 **AI & CV Applications:** Trained deep learning models and custom computer vision systems for security and analytics.
+* 🏅 **IoT & Safety Innovation:** Developed an advanced home safety AI system using computer vision & automated alerts.
+* 📜 **Patents:** Co-invented and filed a patent for the **AI-based LPG Gas Leakage Detection & Fire Alert System**.
+* ⚙️ **Full-Stack Architect:** Created a highly robust, fully interactive MERN-stack e-commerce marketplace (**NovaCart**).
+* 🤖 **Deep Learning:** Implemented computer vision neural networks with real-time video analytics capabilities.
+* 📚 **Continuous Growth:** Successfully completed assignments and challenges in Web Development, Java concepts, and Django security integration.
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="assets/github-stats.svg" alt="Arghya's GitHub Stats" height="180" />
+  <img src="assets/top-languages.svg" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="assets/streak-stats.svg" alt="GitHub Streak" />
+</p>
+
+---
+
+## 👾 Contribution Activity Game
 
 <p align="center">
   <img src="assets/github-stats.svg" alt="GitHub Stats" height="175" />
