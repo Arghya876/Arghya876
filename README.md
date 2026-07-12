@@ -121,7 +121,7 @@ I am a passionate software developer specializing in building modern web applica
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="assets/github-stats.svg" alt="Arghya's GitHub Stats" height="180" />
@@ -132,15 +132,6 @@ I am a passionate software developer specializing in building modern web applica
   <img src="assets/streak-stats.svg" alt="GitHub Streak" />
 </p>
 
----
-
-## 👾 Contribution Activity Game
-
-<p align="center">
-  <img src="assets/github-stats.svg" alt="GitHub Stats" height="175" />
-  <img src="assets/top-languages.svg" alt="Top Languages" height="175" />
-  <img src="assets/streak-stats.svg" alt="GitHub Streak" height="175" />
-</p>
 <p align="center">
   <img src="https://komarev.com/ghvc/?username=Arghya876&color=00a8ff&style=flat-square" alt="Profile Views" />
 </p>
