@@ -90,24 +90,37 @@ I am a passionate software developer specializing in building modern web applica
 ### 📌 Featured Projects
 
 #### 🛒 [NovaCart](https://github.com/Arghya876/Novacart)
-*Premium Full-Stack E-Commerce Platform*
-- **Key Features:** Secure JWT authentication, dynamic administrator dashboard, interactive shopping cart, and seamless checkout system.
-- **Technologies:** React, Node.js, Express.js, MongoDB, TailwindCSS.
+> **Premium Full-Stack E-Commerce Platform**
+> - **Key Features:** Secure JWT authentication, dynamic administrator dashboard, interactive shopping cart, and seamless checkout system.
+> - **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `TailwindCSS`
+
+---
+
+#### 👶 [Little Guardian](https://github.com/Arghya876/Little-Guardian)
+> **AI-Powered Baby Sleep & Movement Monitor**
+> - **Key Features:** Real-time sleep tracking via MediaPipe face mesh (eye-state estimation), live motion detection, and active sleep/wake duration logging.
+> - **Tech Stack:** `Python` • `OpenCV` • `MediaPipe` • `NumPy`
+
+---
 
 #### 🔥 [LPG Leakage Alert System](https://github.com/Arghya876/AI-based-LPG-Gas-Leakage-Detection-Fire-Alert-System)
-*AI & IoT Home Safety System (Patent-Filed)*
-- **Key Features:** Real-time gas leakage & fire detection using computer vision visual confirmation and automated real-time WhatsApp emergency alerts.
-- **Technologies:** Python, OpenCV, TensorFlow, IoT Sensors.
+> **AI & IoT Home Safety System (Patent-Filed)**
+> - **Key Features:** Real-time gas leakage & fire detection with computer vision visual confirmation, and automated WhatsApp emergency alerts.
+> - **Tech Stack:** `Python` • `OpenCV` • `TensorFlow` • `IoT Sensors`
+
+---
 
 #### 😊 [Face Emotion Recognition](https://github.com/Arghya876/Face-Emotion-Recognition)
-*Deep Learning CNN Classifier*
-- **Key Features:** Live video stream facial expression classification using a custom-trained Convolutional Neural Network model and high-accuracy OpenCV frame analytics.
-- **Technologies:** Python, TensorFlow, Keras, OpenCV.
+> **Deep Learning CNN Classifier**
+> - **Key Features:** Real-time facial expression classification from camera feeds using a custom Convolutional Neural Network (CNN).
+> - **Tech Stack:** `Python` • `TensorFlow` • `Keras` • `OpenCV`
+
+---
 
 #### 🚨 [Face Obstruction Detector](https://github.com/Arghya876/Face-Obstruction-Detection-with-WhatsApp-Alert)
-*Computer Vision Security Monitor*
-- **Key Features:** Monitors live video feed for face coverings, detects obstructions hidden for more than 5 seconds, and dispatches automated WhatsApp warnings.
-- **Technologies:** Python, OpenCV, Twilio API.
+> **Computer Vision Security Monitor**
+> - **Key Features:** Live video feed monitoring for face coverings, detecting continuous obstructions (>5s), and dispatching warning alerts.
+> - **Tech Stack:** `Python` • `OpenCV` • `Twilio API`
 
 ---
 
